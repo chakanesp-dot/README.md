@@ -35,5 +35,5 @@ python main.py
 - Diet planning
 - Food quality assessment
 
-## 👤 Author
+👤 Author
 Sakshi Chakane
