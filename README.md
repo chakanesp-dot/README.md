@@ -20,9 +20,15 @@ The system generates a bar chart showing calorie distribution among different fo
 ![Calorie Distribution](calorie_distribution.png)
 
 ## ▶️ How to Run
-1. Install required libraries:Navigate to the project folder:
+
+1. Navigate to the project folder:
+
+```bash
 cd nutritional-profiling-system
-2. Run the program:python main.py
+Install required libraries:
+pip install -r requirements.txt
+Run the program:
+python main.py
 3. ## 🧠 Application
 - Nutritional analysis
 - Food product development
